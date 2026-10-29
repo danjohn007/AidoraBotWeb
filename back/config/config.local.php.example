@@ -1,0 +1,15 @@
+<?php
+return [
+    'base_url' => '/aidora',
+    'db' => [
+        'host' => 'localhost',
+        'name' => 'crmcamar_aidora',
+        'user' => 'TU_USUARIO_MYSQL',
+        'pass' => 'TU_PASSWORD_MYSQL',
+        'charset' => 'utf8mb4',
+    ],
+    'firebase_crm_url' => 'https://us-central1-aidorabot.cloudfunctions.net/crmSendAidora',
+    'firebase_admin_key' => 'TU_WEB_ADMIN_KEY_AIDORABOT',
+    'template_name' => 'aidora_plantilla',
+    'template_language' => 'es_MX',
+];

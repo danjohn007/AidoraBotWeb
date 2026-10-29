@@ -1,0 +1,13 @@
+Aidora CRM
+
+Usuario inicial para una instalación NUEVA:
+admin@aidora.com
+
+Contraseña temporal:
+LorY$!M4Pb4tYY2W
+
+Después del primer acceso cambia la contraseña desde Mi perfil.
+
+WEB_ADMIN_KEY_AIDORABOT:
+Conserva el mismo valor que ya tienes configurado en tu servidor y en Firebase.
+No se incluye la clave real en este paquete.
